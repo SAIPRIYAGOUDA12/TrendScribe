@@ -29,10 +29,6 @@ Maven
 Git
 Setup Instructions
 
-Clone the Repository
-
-git clone https://github.com/your-username/love-blog.git
-cd love-blog
 Database Setup
 
 Open MySQL command line or MySQL Workbench
